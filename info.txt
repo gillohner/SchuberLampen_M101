@@ -1,0 +1,60 @@
+Hallo!
+
+Hier nochmals die wichtigsten Punkte zur Abgabe:
+
+- Vorlage verwenden!
+- Alle Dateien des Projekts in den Ordner �Projekt� kopieren
+- Kontrollieren, ob alles funktioniert
+- info.txt ausf�llen!
+- Als .zip and andi.galileo@gmail.com senden
+
+
+!!!!! Wichtig !!!!!
+Bei einer falschen und/oder fehlerhaften Abgabe kann ich keine R�ckmeldung geben!
+=> Die Verantwortung liegt bei euch!
+
+
+Sobald ihr alle ben�tigten Dateien in den Ordner "Projekt" kopiert haben und kontrolliert habt, f�llt ihr folgende Felder aus: (Beispiel weiter unten)
+
+Name/Vorname: Lohner Gil
+Email-Adresse: gil@lohner.net
+Kurzbeschrieb der HTML Dateien und den verwendeten Bl�cken:
+- index.html - Home
+-- Bild/textblock
+- produkte.html - Produktseite
+-- Kartenblock, Bild/textblock
+- Smartschuber.html
+-- Bild/Textblock
+- HerstellungundDesign.html - Herstellung und Design
+--Bild/textblock
+- Schuberholding.html - Schuber Holding
+--Bild/textblock
+- Organisation.html - Organisation
+--Bildblcok
+-Kontaktformular.html - Kontaktformular
+--Formular
+-Dienstleistungen.html - Dienstleistungen
+--Textblock
+
+
+!! Abschluss !!
+Wenn ihr alles zusammen habt, verpackt ihr das File als ZIP und sendet es mir. Ihr k�nnt noch im Unterricht von mir best�tigen lassen,
+dass ich das File erhalten und �ffnen kann. Falls ihr dies nicht tut und ich das File nicht �ffnen kann, kann ich euch keine Beurteilung abgeben
+und ich muss euch 10 Punkte f�r eine versp�tete Abgabe abziehen!
+
+
+
+
+---- Beispiel Abgabe ----
+
+Name/Vorname: Moser Andi
+Email-Adresse: andi.galileo@gmail.com
+Kurzbeschrieb der HTML Dateien:
+- index.html - Startseite
+-- Slider, Text, Bild
+- produkte.html - Zeigt eine Liste aller Produkte
+-- Produktblock, Text, Bild
+- kontakt.html - Enth�lt das Kontakformular
+-- Text, Bild, Text-Bild, Kontakformular
+- about_us.html - Enth�lt den Bereich �ber uns
+-- Text, Bild, Google Maps
